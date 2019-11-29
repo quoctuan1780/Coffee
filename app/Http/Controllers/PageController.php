@@ -173,3 +173,4 @@ class PageController extends Controller
         return view('page.timkiem', compact('product'));
     }
 }
+
